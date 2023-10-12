@@ -1,0 +1,6 @@
+.idea
+*.mp4
+__pycache__/
+output/
+log/
+data/
